@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Link Tree</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #f0f0f0;
+        }
+        .container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        .link {
+            display: block;
+            margin: 10px 0;
+            padding: 10px;
+            text-align: center;
+            text-decoration: none;
+            color: white;
+            background-color: #0073e6;
+            border-radius: 5px;
+            transition: background-color 0.3s;
+        }
+        .link:hover {
+            background-color: #005bb5;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <a href="https://www.instagram.com/_kin_folk__/" class="kin_folk">Link 1</a>
+        <a href="https://www.instagram.com/_a.r.u.n_ar/" class="arun">Link 2</a>
+        <a href="https://www.instagram.com/dirty_x_pilot/" class="vishnu">Link 3</a>
+        <a href="https://www.instagram.com/anzil_hanee_fa/" class="anzil">Link 3</a>
+        <a href="https://www.instagram.com/shaukkath__ali/" class="shaukkath">Link 3</a>
+    </div>
+</body>
+</html>
