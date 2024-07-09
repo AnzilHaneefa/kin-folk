@@ -37,9 +37,11 @@
 </head>
 <body>
     <div class="container">
-        <a href="https://link1.com" class="link">Link 1</a>
-        <a href="https://link2.com" class="link">Link 2</a>
-        <a href="https://link3.com" class="link">Link 3</a>
+        <a href="https://www.instagram.com/_kin_folk__/" class="kin_folk">Link 1</a>
+        <a href="https://www.instagram.com/_a.r.u.n_ar/" class="arun">Link 2</a>
+        <a href="https://www.instagram.com/dirty_x_pilot/" class="vishnu">Link 3</a>
+        <a href="https://www.instagram.com/anzil_hanee_fa/" class="anzil">Link 3</a>
+        <a href="https://www.instagram.com/shaukkath__ali/" class="shaukkath">Link 3</a>
     </div>
 </body>
 </html>
